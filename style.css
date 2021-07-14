@@ -3,3 +3,12 @@
     padding: 0;
 }
 
+header{
+    background-color: blue;    
+}
+
+div {
+    border: 5px solid black;
+    width: 300px;
+    height: 150px;
+    display: inline-block;
