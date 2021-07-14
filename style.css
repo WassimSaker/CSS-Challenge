@@ -32,21 +32,23 @@ div {
 .J{
     width: 1107px;
     height: 150px;
-    
-
+    background-image: url(./images/background.jpeg);
+    color: white;
 }
+
 .a{
     text-align: center;
-    background-color: blue; 
-    color: white
-    ;
+    background-color: blue;
+    color: white;
 }
+
 .b{
     text-align: center;
     text-decoration-color:white;
     background-color: blue; 
     color: white;
 }
+
 .c{
     text-align: center;
     background-color: blue;
