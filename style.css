@@ -10,6 +10,8 @@ header{
     text-decoration: solid white;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 15px;
+    color: white
+    
 }
 
 div {
@@ -36,13 +38,17 @@ div {
 .a{
     text-align: center;
     background-color: blue; 
+    color: white
+    ;
 }
 .b{
     text-align: center;
     text-decoration-color:white;
     background-color: blue; 
+    color: white;
 }
 .c{
     text-align: center;
-    background-color: blue; 
+    background-color: blue;
+    color: white;
 }
